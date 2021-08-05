@@ -1,1 +1,1 @@
-This project is used to find out leaked objects in a project
+This project is used to find out leaked objevts in a project
